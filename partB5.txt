@@ -1,0 +1,16 @@
+Author : Satvik Dhandhania
+Andrew ID: sdhandha
+
+
+
+5. How well did it do? What, if anything, can you learn from this? Save
+your answer to this question (B5) in the file ’partB5.txt’
+>This test did not result in any particular outcome. The votes are tied
+ and there lies the weakness of this algorithm when half the version 
+space agrees and the other half disagrees. To make this a better solution
+we should be able to give more weightage to certain hypothesis and less to
+some others. This may be done by taking assumptions or by taking weights of
+certain pairs of inputs. Like say in the weather example given in class,
+'sunny' and 'warm' may be given more weightage than sunny and cold. Similar
+pairs may be found and the hypothesis that contains such pairs will have
+more weightage than ones that do not. 
